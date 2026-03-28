@@ -1,0 +1,72 @@
+# TNEA (Tamil Nadu Engineering Admissions) Comprehensive Guide
+
+## 1. Eligibility Criteria
+- **Nativity**: Tamil Nadu candidates who have passed VIII, IX, X, XI, and XII standard from schools situated in Tamil Nadu are eligible to apply. Other State candidates who have studied VIII to XII in Tamil Nadu are also eligible.
+- **Qualifying Examination**: A pass in the HSC (Academic) or its equivalent with a minimum average percentage in Mathematics, Physics, and Chemistry put together.
+- **Minimum Marks**: General Category (OC): 45%, Backward Class (BC, BCM): 40%, MBC & DNC: 40%, SC/SCA/ST: 40%.
+- **Age Limit**: Maximum age is generally 21 years with relaxation for specific categories (SC/ST).
+
+## 2. Counseling Process & Steps
+1. **Online Registration & Fee Payment**: Students must register on the official TNEA portal and pay the counseling fee (Rs. 500 for General/BC/MBC, Rs. 250 for SC/ST).
+2. **Certificate Verification**: Upload certificates online for verification. E-Centers are designated for physical help if needed.
+3. **Publication of Rank List**: A general rank list and community-based rank lists are published based on the cutoff calculated out of 200 (Math=100, Physics=50, Chemistry=50).
+4. **Choice Filling**: Candidates lock their preferred colleges and branches in the order of their priority during their designated counseling round.
+5. **Tentative Allotment**: The system makes a tentative allotment based on rank, community, and availability. Candidates can accept, reject, or opt for upward movement.
+6. **Final Allotment & Reporting**: After confirmation, download the provisional allotment order and report to the allotted college within 7 days.
+
+## 3. Top Tier Colleges Overview
+- **CEG Guindy (College of Engineering, Anna University)**: Highly prestigious. Offers top-tier placements.
+- **MIT Chromepet (Madras Institute of Technology)**: Known for Aeronautical, Automobile, and Electronics.
+- **PSG College of Technology, Coimbatore**: A highly sought-after aided/autonomous institution with strict cutoffs.
+- **SSN College of Engineering, Chennai**: Top-ranked private college under Anna University.
+- **CIT (Coimbatore Institute of Technology)**: Excellent legacy for Mechanical, Civil, and CSE.
+- **Thiagarajar College of Engineering (TCE), Madurai**: Strong academic environment and autonomy.
+
+## 4. Cutoff Marks Reference (Expected Safe Scores)
+### Computer Science Engineering (CSE) & AI / Data Science
+- CEG Guindy: 199.5 - 200
+- PSG Tech: 198 - 199.5
+- SSN College: 196.5 - 198.5
+- CIT Coimbatore: 195 - 197
+- MIT Chromepet: 198 - 199.5
+
+### Electronics and Communication Engineering (ECE)
+- CEG Guindy: 198 - 199.5
+- MIT Chromepet: 197.5 - 199
+- PSG Tech: 196 - 198
+- SSN College: 194.5 - 197
+
+### Mechanical & Civil Engineering
+- CEG Guindy: 195 - 198
+- PSG Tech: 194 - 197
+- SSN College: 190 - 194
+
+## 5. Reservation Categories & Quotas
+- **Open Competition (OC)**: 31%
+- **Backward Class (BC)**: 26.5%
+- **Backward Class Muslim (BCM)**: 3.5%
+- **Most Backward Class & Denotified Communities (MBC & DNC)**: 20%
+- **Scheduled Caste (SC)**: 15%
+- **Scheduled Caste Arundathiyar (SCA)**: 3%
+- **Scheduled Tribes (ST)**: 1%
+
+## 6. Special Reservations
+- **Differently Abled Persons**: 1% horizontal reservation.
+- **Ex-Servicemen**: Quota allotted in university departments and government colleges.
+- **Eminent Sports Persons**: Specific number of seats purely based on sports certificates grading.
+- **7.5% Government School Quota**: Horizontal reservation strictly for students who studied completely in government schools from 6th to 12th. Tuition fees are completely borne by the state.
+
+## 7. Scholarships & Fees
+- **First Generation Graduate (FGG)**: Students who are the first in their family to attend college receive a tuition fee waiver of approx. Rs. 20,000 per year.
+- **Post Matric Scholarship**: Available for SC/SCA/ST students whose parental income is below specific thresholds.
+
+## 8. Important Deadlines & Schedule (Tentative Dates for 2026)
+- **Application Start Date**: May 5, 2026.
+- **Last Date for Online Registration**: June 14, 2026.
+- **Last Date for Uploading Documents**: June 18, 2026.
+- **Random Number Generation**: June 20, 2026.
+- **Certificate Verification (Online/E-Centers)**: June 22, 2026 to June 30, 2026.
+- **Publication of Rank List**: July 5, 2026.
+- **Counseling Commences (Special Reservation)**: July 10, 2026.
+- **General Counseling Starts (Phases 1-4)**: July 15, 2026.
+- **Supplementary Counseling**: August 28, 2026.
